@@ -1,0 +1,9 @@
+body{
+    font-family:'Lucida Handwriting', cursive;
+    text-align: center;
+    list-style-position: inside;
+}
+button {
+    background-color: lightblue;
+    font-family:'Lucida Handwriting', cursive ;
+}
